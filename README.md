@@ -1,6 +1,6 @@
 # MovieCat
 ### 用angularjs写的一个前端网页
-![ABC](https://github.com/qq756585379/YJApp/blob/master/1.gif)
+![ABC](https://github.com/qq756585379/MovieCat/blob/master/1.gif)
 
 先手动在项目根目录下创建src文件夹和README文件
 
